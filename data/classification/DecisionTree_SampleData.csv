@@ -1,0 +1,17 @@
+Patient ID,Gender,BMI,BP,Drug
+p01,M,not normal,not normal,Drug A
+p02,M,not normal,normal,Drug B
+p03,M,not normal,not normal,Drug A
+p04,M,normal,not normal,Drug A
+p05,M,not normal,not normal,Drug A
+p06,F,not normal,normal,Drug B
+p07,F,normal,not normal,Drug A
+p08,F,not normal,normal,Drug B
+p09,M,not normal,not normal,Drug A
+p10,M,normal,not normal,Drug A
+p11,F,not normal,not normal,Drug B
+p12,F,normal,normal,Drug B
+p13,F,normal,normal,Drug B
+p14,M,normal,not normal,Drug B
+p15,F,not normal,normal,Drug B
+p16,M,not normal,not normal,???
