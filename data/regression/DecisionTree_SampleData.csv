@@ -1,0 +1,17 @@
+Patient ID,Gender,BMI,BP,Charges
+p01,M,not normal,not normal,100
+p02,M,not normal,normal,260
+p03,M,not normal,not normal,300
+p04,M,normal,not normal,270
+p05,M,not normal,not normal,290
+p06,F,not normal,normal,100
+p07,F,normal,not normal,150
+p08,F,not normal,normal,300
+p09,M,not normal,not normal,340
+p10,M,normal,not normal,240
+p11,F,not normal,not normal,160
+p12,F,normal,normal,180
+p13,F,normal,normal,210
+p14,M,normal,not normal,360
+p15,F,not normal,normal,400
+p16,M,not normal,not normal,???

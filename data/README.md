@@ -1,7 +1,10 @@
 Data Tree Map:
+```
 ├── classification
     ├── Breast Cancer
-    ├── Heart Disease
+    ├── Decision Tree Sample Data
+    ├── Heart Disease Clean
+    ├── Heart Disease Dirty
     └── Stroke Data
 ├── clustering
 ├── exploration
@@ -12,4 +15,6 @@ Data Tree Map:
     ├── WHO Suicide Statistics
     └── World Happiness Report
 └── regression
+    ├── Decision Tree Sample Data
     └── Insurance Cost
+```
